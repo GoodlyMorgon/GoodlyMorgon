@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## 👋GoodlyMorgon👋
+👀 I'm interested in computer software engineering and the development of operating systems, applications and games.
 <!--
 **GoodlyMorgon/GoodlyMorgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
